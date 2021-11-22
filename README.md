@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @markadrianrico
-- 👀 I’m interested in software stuff
-- 🌱 I’m currently learning software stuff
-- 💞️ I’m looking to collaborate on software stuff
-- 📫 HMU at markadrianrico@protonmail.com
+
